@@ -46,7 +46,7 @@ git clone https://github.com/dev-harisk/BookHub.git
 
 ## Usage
 
-- **1. Admin Login:** Log in as the admin or librarian to access full system functionalities.
-- **2. Manage Records:** Add, edit, and delete books, members, and transactions.
-- **3.Search and Track:** Use the search bar to check book availability or view real-time library data via the dashboard.
-- **4. Profile Management:** Update personal details as needed, ensuring security and flexibility.
+- **Admin Login:** Log in as the admin or librarian to access full system functionalities.
+- **Manage Records:** Add, edit, and delete books, members, and transactions.
+- **Search and Track:** Use the search bar to check book availability or view real-time library data via the dashboard.
+- **Profile Management:** Update personal details as needed, ensuring security and flexibility.
